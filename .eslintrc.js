@@ -12,6 +12,10 @@ module.exports = {
     'shared-node-browser': true,
     jest: true,
   },
+  
+  
+  
+  
   settings: {
     'import/resolver': {
       'babel-module': {},
